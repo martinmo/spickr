@@ -1,4 +1,4 @@
-# Today I Learned: Thymeleaf
+# Thymeleaf
 
 ## Selection Expression
 
